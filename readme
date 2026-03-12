@@ -1,2 +1,21 @@
 Situation:
 Retail companies need to understand customer behavior to improve marketing campaigns and drive higher engagement.
+
+Task:
+Segment customers based on purchasing behavior and evaluate marketing campaign performance.
+
+Action:
+
+Combined transaction, customer, and product datasets using SQL joins.
+
+Performed customer segmentation using clustering techniques in Python.
+
+Analyzed metrics such as purchase frequency, average order value, and customer lifetime value.
+
+Built visualizations in Tableau to highlight high-value customer segments.
+
+Result:
+
+Identified distinct customer groups and behavioral patterns.
+
+Provided insights that could support targeted marketing strategies and improved campaign ROI.
